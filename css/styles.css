@@ -1,0 +1,137 @@
+body{
+  color: #40514e;
+  text-align: center;
+  margin: 0;
+  font-family: "Meriweather", serif;
+  font-size: 100%;
+}
+h1{
+  color: #11999e;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+
+h2{
+  color: #11999e;
+  font-size: 2.5rem;
+  padding: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+h3{
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+
+hr{
+  border: dotted 6px grey;
+  border-bottom: none;
+  width: 16%;
+  margin: 100px auto;
+}
+
+p{
+  line-height: 2;
+  font-family: "Montserrat", sans-serif;
+
+}
+
+a{
+  color: #11999e;
+  text-decoration: none;
+  margin: 50px 20px;
+  font-family: "Merriweather", serif;
+}
+
+
+.top-section{
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-section{
+  margin: 100px 0;
+}
+
+.bottom-section{
+  background-color:#66bfbf;
+  padding: 50px 0 20px;
+}
+
+.intro{
+  width: 30%;
+  margin:auto;
+}
+
+.skill-set{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill-image1{
+  width: 25%;
+  float:left;
+  margin: auto 30px;
+}
+
+.skill-image2{
+  width: 25%;
+  float: right;
+  margin: auto 0 auto 30px;
+}
+
+.cloud-up{
+  position: absolute;
+  right: 300px;
+  top:40px;
+}
+
+.cloud-down{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+ .contact-info{
+   width: 40%;
+   margin: 40px auto 60px;
+ }
+
+.btn{
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: "Merriweather", serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px 20px 10px 20px;
+  box-shadow: 1px 1px 2px 0 #000000;
+  text-shadow: 1px 1px 2px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+.btn:hover{
+  color: #11999e;
+  text-decoration: none;
+  font-family: "Merriweather", serif;
+}
+.footer-link{
+
+}
+
+.footer{
+  color: #ffffff;
+  font-family: "Meriweather", serif;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.mountain{
+/*  position: relative;*/
+}
